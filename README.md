@@ -1,3 +1,13 @@
+APPLE WEBSITE CLONE
+
+Developed a clone of the Apple website using React and Material UI for a sleek, responsive design. For user authentication, I integrated AWS Cognito, an identity management service provided by Amazon Web Services (AWS). AWS Cognito allows developers to easily add user authentication, sign-up, and login functionality to their web and mobile applications. This service handles user identity management securely, making the integration seamless.
+
+The entire application was deployed using AWS Amplify, a powerful platform that simplifies the deployment of full-stack applications. AWS Amplify provides built-in CI/CD workflows that automate build and deployment processes, allowing for faster iterations during development. Additionally, its ready-made authentication components, like AWS Cognito, can be easily integrated into React applications, significantly speeding up the development process. This combination allowed us to focus on the front-end experience while utilizing AWS's robust backend services, saving time and effort in setting up custom authentication and deployment pipelines.
+
+
+
+
+------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
