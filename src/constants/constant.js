@@ -15,7 +15,7 @@ export const navData = [
 
 export const productsSection = {
     iphonePro: {
-        heading: 'iPhone 15 Pro',
+        heading: 'iPhone 15',
         headColor: '#fff',
         subHeading: 'Titanium. So Strong. So light. So Pro.',
         subHeadColor: '#fff',
