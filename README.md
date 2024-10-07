@@ -4,6 +4,8 @@ Developed a clone of the Apple website using React and Material UI for a sleek, 
 
 The entire application was deployed using AWS Amplify, a powerful platform that simplifies the deployment of full-stack applications. AWS Amplify provides built-in CI/CD workflows that automate build and deployment processes, allowing for faster iterations during development. Additionally, its ready-made authentication components, like AWS Cognito, can be easily integrated into React applications, significantly speeding up the development process. This combination allowed us to focus on the front-end experience while utilizing AWS's robust backend services, saving time and effort in setting up custom authentication and deployment pipelines.
 
+<img width="926" alt="Screenshot 2024-10-07 at 7 08 01 PM" src="https://github.com/user-attachments/assets/529e6be7-3c43-4af8-a82c-504805a6af43">
+<img width="1470" alt="Screenshot 2024-10-07 at 7 08 53 PM" src="https://github.com/user-attachments/assets/025c1584-14ea-4908-ad52-9e3541ad7787">
 
 
 
